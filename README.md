@@ -1,2 +1,2 @@
-# AustinJunto
+# Austin Junto
 Austin Junto Website 
